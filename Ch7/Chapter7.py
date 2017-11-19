@@ -1,5 +1,5 @@
 """
-Chapter 1 Solutions 
+Chapter 7 Solutions 
 to Think Python by Robert Downey
 
 Gordon Olwell
